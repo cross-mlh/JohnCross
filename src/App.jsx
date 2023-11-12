@@ -25,14 +25,13 @@ import "./styles.css";
  */
 const siteProps = {
   name: "David Attamah",
-  title: "Web Designer & Content Creator",
-  email: "alex@example.com",
-  gitHub: "microsoft",
-  instagram: "microsoft",
-  linkedIn: "satyanadella",
-  medium: "",
-  twitter: "microsoft",
-  youTube: "Code",
+  title: "Tech Sales & Cybersecurity",
+  email: "attamahonochie@gmail.com",
+  gitHub: "cross-mlh",
+  instagram: "cross_kraft",
+  linkedIn: "david-attamah",
+  twitter: "JohncrossDavid",
+  youTube: "onochiejohncross",
 };
 
 const primaryColor = "#4E567E";
